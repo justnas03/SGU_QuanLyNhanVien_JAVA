@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 05 17:19:19 ICT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018c-397d-41b8-000006e07578 
+on database directory C:\Users\ASUS\eclipse-workspace\Y3_Danh Muc Nhan Vien\nhanvienDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@49e4cb85 
+Loaded from file:/C:/Users/ASUS/Derby/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.4.1+1
+user.dir=C:\Users\ASUS\eclipse-workspace\Y3_Danh Muc Nhan Vien
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
